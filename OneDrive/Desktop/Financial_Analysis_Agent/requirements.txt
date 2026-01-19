@@ -1,0 +1,31 @@
+# Core Framework
+agno>=2.0.0
+
+# LLM Provider
+groq
+
+# Vector Database & Embeddings
+chromadb
+sentence-transformers
+
+# PDF Processing
+pypdf
+unstructured[pdf]
+chonkie
+
+# Web Tools & Data Sources  
+# duckduckgo-search
+ddgs
+newspaper4k
+yfinance
+
+# Backend & API
+fastapi
+uvicorn[standard]
+
+# Utilities
+python-dotenv
+requests
+
+# Optional but recommended
+logging
